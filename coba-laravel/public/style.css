@@ -1,0 +1,14 @@
+body {
+    background: #f2f2f2;
+    text-align: center;
+  }
+  
+  .box {
+    background: linear-gradient(to right, orange, #ec38bc, #7303c0, cyan);  
+    
+    color: white;
+    padding: 18rem 5rem;
+    margin: 1rem;
+    font-size: 40px;
+  }
+  
